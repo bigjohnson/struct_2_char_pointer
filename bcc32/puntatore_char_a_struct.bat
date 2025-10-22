@@ -1,0 +1,1 @@
+bcc32 puntatore_char_a_struct.c
